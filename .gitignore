@@ -13,6 +13,7 @@ packages
 *.sw?
 .idea/
 .pub/
+.dart_tool/
 
 # Include when developing application packages.
 pubspec.lock
